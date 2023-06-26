@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <body>
+        Simple, traffic-based pricing Sign-up for our 30-day trial. No credit
+        card required. Pageviews $ /month Monthly Billing Yearly Billing 25%
+        discount Unlimited websites 100% data ownership Email reports Start my
+        trial
+      </body>
     </div>
   );
 }
